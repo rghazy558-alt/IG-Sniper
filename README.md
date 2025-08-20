@@ -1,5 +1,6 @@
-# IG-Sniper
-An Instagram username taker/claimer - Check desired usernames availability. When it becomes available, original username will be changed to desired username.
+abc
+9kq
+z_m
 
 
 ## About
